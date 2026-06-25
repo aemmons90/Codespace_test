@@ -1,0 +1,8 @@
+{
+    "name": "RStudio Environment for VSCode",
+    "image": "rocker/rstudio:latest",
+    "extensions": [
+        "REditorSupport.r",
+        "quarto.quarto"
+    ]
+}
